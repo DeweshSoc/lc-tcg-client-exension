@@ -1,0 +1,11 @@
+{
+    "name": "LC/Tcg client extension",
+    "version": "1.0.0",
+    "description": "Generate testcases for leetcode questions",
+    "manifest_version": 3,
+    "author": "Dewesh Jha",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Generate Testcase"
+    }
+}

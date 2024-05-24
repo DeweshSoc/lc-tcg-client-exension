@@ -9,7 +9,7 @@ async function generateTestCase(){
         return;
     }
     
-    const url = `https://lc-tcg-api.cyclic.app/api/${datastructure}/0`;
+    const url = `https://lc-tcg.onrender.com/api/${datastructure}/0`;
 
     const headersList = {
         "Accept": "*/*"
